@@ -4,8 +4,7 @@ Export-Package: org.knime.workbench.extension.wizards,org.knime.workbe
 Bundle-ActivationPolicy: lazy
 Bundle-Name: KNIME Workbench Extensions - Scala
 Created-By: 1.6.0_26-b03 (Sun Microsystems Inc.)
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6,
- JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Require-Bundle: org.eclipse.core.resources;bundle-version="[3.6.0,4.0.0)",
  org.eclipse.ui.ide;bundle-version="[3.6.1,4.0.0)",
  org.eclipse.jdt.core;bundle-version="[3.6.1,4.0.0)",
